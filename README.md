@@ -2,7 +2,7 @@
 
 git diff wrapper for xlsx file.
 
-<img src="http://t.co/5Epi6NXHZ5">
+<img src="http://i.gyazo.com/4f82156d209530760998a0978891714f.png">
 
 # install
 
